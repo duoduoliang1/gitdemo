@@ -8,6 +8,8 @@ public class Gittest {
         System.out.println("b");
         System.out.println("c");
         System.out.println("d");
+        System.out.println("dev123");
+        System.out.println("dev修改");
         System.out.println("master123");
     }
 }
