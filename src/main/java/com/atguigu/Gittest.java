@@ -7,5 +7,7 @@ public class Gittest {
         System.out.println("a");
         System.out.println("b");
         System.out.println("合并");
+        System.out.println("dev123");
+        System.out.println("dev修改");
     }
 }
