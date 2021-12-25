@@ -9,5 +9,6 @@ public class Gittest {
         System.out.println("合并");
         System.out.println("dev123");
         System.out.println("dev修改");
-    }
+        System.out.println("pull");
+    } 
 }
