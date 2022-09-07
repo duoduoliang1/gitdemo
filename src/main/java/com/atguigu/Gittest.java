@@ -8,6 +8,8 @@ public class Gittest {
         System.out.println("aaa");
         System.out.println("aaa123");
         123456
+        System.out.println("ccc");
+
         System.out.println("bbb111");
     }
 }
